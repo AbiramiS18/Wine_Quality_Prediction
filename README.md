@@ -27,7 +27,7 @@ input features. Sensory data served as the foundation for the output features, w
 in an 11-step quality feature system, with 0 denoting very bad quality and 10 denoting very good
 quality. Physiochemical tests were used to gather the input data features.
 
-**Datasource:**[Wine Quality Dataset](https://www.kaggle.com/datasets/rajyellow46/wine-quality)
+**Dataset Source:**[Wine Quality Dataset](https://www.kaggle.com/datasets/rajyellow46/wine-quality)
 
 
 ## Visualization:
