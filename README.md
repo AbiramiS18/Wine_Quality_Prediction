@@ -17,7 +17,7 @@ as well as time by using these technologies. The aroma and flavor characteristic
 strongly impact its quality. The taste, aroma, color, and other qualities of wine are determined
 by its chemical composition.
 
-## Dataset
+## Dataset:
   The machine learning community has gathered a sizable number of datasets for use in
 research investigations, which are included in this data store. We are examining the Portuguese
 red and white wines of the Vinho Verde varietal, specifically the “Wine Quality” dataset which
@@ -27,7 +27,7 @@ input features. Sensory data served as the foundation for the output features, w
 in an 11-step quality feature system, with 0 denoting very bad quality and 10 denoting very good
 quality. Physiochemical tests were used to gather the input data features.
 
-**Dataset Source:**[Wine Quality Dataset](https://www.kaggle.com/datasets/rajyellow46/wine-quality)
+**Dataset Source:** [Wine Quality Dataset](https://www.kaggle.com/datasets/rajyellow46/wine-quality)
 
 
 ## Visualization:
